@@ -1,1 +1,1 @@
-# digital_alram
+# digital_alarm
